@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmnipotentChipmunk
 - 👀 I’m interested in becoming a junior developer
-- 🌱 I’m currently learning html, python, and css
+- 🌱 I’m currently learning html, JavaScript, python, Linux, and css
 - 💞️ I’m looking to collaborate on everything that will help me learn
 - 📫 How to reach me? text (4064026456)or email zander.renfro@gmail.com
 - 😄 Pronouns: He, Him
